@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Tomato
   - Onion
+  - Pot
   layers:
   - Default
   - TransparentFX
